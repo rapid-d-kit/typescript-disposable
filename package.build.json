@@ -1,0 +1,12 @@
+{
+  "name": "@rapid-d-kit/disposable",
+  "version": "0.1.1",
+  "main": "index.js",
+  "repository": "https://github.com/rapid-d-kit/typescript-disposable.git",
+  "author": "rapid-d-kit <contact.rapid-d-kit@w4io.com>",
+  "license": "AGPL-3.0-only",
+  "dependencies": {
+    "@rapid-d-kit/iterator": "^0.1.1",
+    "@rapid-d-kit/types": "^0.1.1"
+  }
+}
